@@ -10,3 +10,7 @@ Examples of design patterns
 ### observer.current
 
 ### observer.extra
+
+## Singleton Pattern
+
+### singleton
