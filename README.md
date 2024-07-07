@@ -1,12 +1,12 @@
 # Patterns
 Examples of design patterns
 
-## Observer
+## Observer Pattern
 
-### ground-up
+### observer.ground-up
 
-### deprecated
+### observer.deprecated
 
-### current
+### observer.current
 
-### extre
+### observer.extra
