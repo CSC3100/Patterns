@@ -14,3 +14,11 @@ Examples of design patterns
 ## Singleton Pattern
 
 ### singleton
+
+## Decorator Pattern
+
+### decorator.ground-up
+
+### decorator.extra
+
+### decorator.companion
