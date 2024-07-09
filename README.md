@@ -22,3 +22,7 @@ Examples of design patterns
 ### decorator.extra
 
 ### decorator.companion
+
+## Integrative Examples
+
+### plotter
