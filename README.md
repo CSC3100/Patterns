@@ -11,9 +11,13 @@ Examples of design patterns
 
 ### observer.extra
 
+<br>
+
 ## Singleton Pattern
 
 ### singleton
+
+<br>
 
 ## Decorator Pattern
 
@@ -23,6 +27,10 @@ Examples of design patterns
 
 ### decorator.companion
 
+<br>
+
 ## Integrative Examples
 
 ### plotter
+
+<br>
