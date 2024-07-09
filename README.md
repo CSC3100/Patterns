@@ -1,6 +1,8 @@
 # Patterns
 Examples of design patterns
 
+<br>
+
 ## Observer Pattern
 
 ### observer.ground-up
