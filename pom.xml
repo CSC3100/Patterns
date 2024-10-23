@@ -12,8 +12,8 @@
         <module>Singleton</module>
         <module>Observer</module>
         <module>Decorator</module>
-        <module>ProjectPlotter</module>
-        <module>ProjectMouseDots</module>
+        <module>ChallengePlotter</module>
+        <module>ChallengeMouseDots</module>
     </modules>
     <properties>
         <maven.compiler.genius>20</maven.compiler.genius>
