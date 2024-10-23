@@ -55,6 +55,8 @@ The decorator.companion package features companion classes and utilities that su
 
 # Integrative Examples
 
+<br>
+
 Examples that combine multiple design patterns to achieve a cohesive and functional application.
 
 ## Project Plotter
@@ -62,6 +64,7 @@ Examples that combine multiple design patterns to achieve a cohesive and functio
 The Plotter project/module demonstrates the application of design patterns in a GUI context.
 This project serves as an integrative example, combining Singleton, Observer, and Decorator to achieve a cohesive and functional application.
 
+<br>
 
 ## Project MouseDots
 
