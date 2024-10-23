@@ -3,12 +3,12 @@
 
 # Patterns
 Examples of design patterns
+
 <br>
 
 ## Observer Pattern
 
-The Observer pattern is a behavioral design pattern that defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. This pattern is commonly used in event handling systems, user interfaces, and distributed systems to maintain consistency and synchronization between objects.
-These are some examples of the Observer pattern:
+The Observer pattern is a behavioral design pattern that defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. This pattern is commonly used in event handling systems and user interfaces to maintain consistency and synchronization between objects. These are some examples of the Observer pattern:
 
 ### observer.template
 
@@ -16,18 +16,17 @@ The observer.template package contains template classes and interfaces that defi
 
 ### observer.deprecated
 
-The observer.deprecated package includes legacy implementations of the Observer design pattern that are no longer recommended for use. These classes and interfaces are maintained for backward compatibility and historical reference but should be replaced with more modern and efficient implementations found in other packages.
+The observer.deprecated package includes legacy implementations (in Java SDK) of the Observer design pattern that are no longer recommended for use. These classes and interfaces are maintained for backward compatibility and historical reference but should be replaced with more modern and efficient implementations found in other packages.
 
 ### observer.current
 
-The observer.current package features the latest and most optimized implementations of the Observer design pattern. This package leverages modern Java features and best practices to provide a robust and efficient solution for managing observer-subject relationships in a variety of applications.
+The observer.current package features the latest and most optimized implementations of the Observer design pattern (in Java SDK). This package leverages features and best practices to provide a robust and efficient solution for managing observer-subject relationships.
 
 <br>
 
 ## Singleton Pattern
 
-The Singleton pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. This pattern is commonly used in scenarios where a single instance of a class is required
-These are some examples of the Singleton pattern:
+The Singleton pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. This pattern is commonly used in scenarios where a single instance of a class is required. These are some examples of the Singleton pattern:
 
 ### singleton
 
@@ -37,8 +36,7 @@ The singleton package contains examples of the Singleton design pattern implemen
 
 ## Decorator Pattern
 
-The Decorator pattern is a structural design pattern that allows behavior to be added to individual objects, either statically or dynamically, without affecting the behavior of other objects from the same class. This pattern is commonly used to extend the functionality of existing classes without modifying their structure or behavior directly.
-These are some examples of the Decorator pattern:
+The Decorator pattern is a structural design pattern that allows behavior to be added to individual objects, either statically or dynamically, without affecting the behavior of other objects from the same class. This pattern is commonly used to extend the functionality of existing classes without modifying their structure or behavior directly. These are some examples of the Decorator pattern:
 
 ### decorator.template
 
