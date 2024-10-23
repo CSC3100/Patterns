@@ -7,6 +7,14 @@
     <groupId>groupId</groupId>
     <artifactId>Patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Singleton</module>
+        <module>Observer</module>
+        <module>Decorator</module>
+        <module>ProjectPlotter</module>
+        <module>ProjectMouseDots</module>
+    </modules>
     <properties>
         <maven.compiler.genius>20</maven.compiler.genius>
         <maven.compiler.target>20</maven.compiler.target>

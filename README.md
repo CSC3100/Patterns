@@ -5,13 +5,12 @@ Examples of design patterns
 
 ## Observer Pattern
 
-### observer.ground-up
+### observer.template
 
 ### observer.deprecated
 
 ### observer.current
 
-### observer.extra
 
 <br>
 
@@ -23,7 +22,7 @@ Examples of design patterns
 
 ## Decorator Pattern
 
-### decorator.ground-up
+### decorator.template
 
 ### decorator.extra
 
@@ -31,8 +30,10 @@ Examples of design patterns
 
 <br>
 
-## Integrative Examples
+# Integrative Examples
 
-### plotter
+## Project Plotter
+
+## Project MouseDots
 
 <br>
