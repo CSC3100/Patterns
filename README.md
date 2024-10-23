@@ -55,9 +55,9 @@ The decorator.companion package features companion classes and utilities that su
 
 # Integrative Examples
 
-<br>
-
 Examples that combine multiple design patterns to achieve a cohesive and functional application.
+
+<br>
 
 ## Project Plotter
 
